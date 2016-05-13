@@ -1,0 +1,40 @@
+tile.black.name=black
+tile.blockBook.name=blockBook
+tile.assignBook.name=assignBook
+tile.check.name=check
+tile.divide.name=divide
+tile.eight.name=eight
+tile.equal.name=equal
+tile.five.name=five
+tile.four.name=four
+tile.minus.name=minus
+tile.multi.name=multi
+tile.nine.name=nine
+tile.one.name=one
+tile.plus.name=plus
+tile.questionMark.name=questionMark
+tile.seven.name=seven
+tile.six.name=six
+tile.three.name=three
+tile.two.name=two
+tile.zero.name=zero
+keys.eduMod.category=Edu Mod
+keys.eduMod.charge=charge
+keys.eduMod.release=release
+keys.eduMod.makeGUI=Add assignment
+item.grenade.name=Special Grenade
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,85 @@
+[10:37:28] [main/INFO]: Setting user: Player788
+[10:37:30] [Client thread/INFO]: LWJGL Version: 2.9.1
+[10:37:39] [Client thread/INFO]: Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:edumod
+[10:37:39] [Sound Library Loader/INFO]: Sound engine started
+[10:37:40] [Client thread/INFO]: Created: 16x16 textures/blocks-atlas
+[10:37:40] [Client thread/INFO]: Created: 16x16 textures/items-atlas
+[10:37:40] [Client thread/INFO]: Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:edumod
+[10:37:41] [Client thread/INFO]: Created: 256x256 textures/items-atlas
+[10:37:41] [Client thread/INFO]: Created: 512x256 textures/blocks-atlas
+[10:37:42] [Sound Library Loader/INFO]: Sound engine started
+[10:51:32] [Server thread/INFO]: Starting integrated minecraft server version 1.7.10
+[10:51:32] [Server thread/INFO]: Generating keypair
+[10:51:32] [Server thread/INFO]: Converting map!
+[10:51:32] [Server thread/INFO]: Scanning folders...
+[10:51:32] [Server thread/INFO]: Total conversion count is 0
+[10:51:32] [Server thread/INFO]: Preparing start region for level 0
+[10:51:34] [Server thread/INFO]: Preparing spawn area: 11%
+[10:51:35] [Server thread/INFO]: Preparing spawn area: 27%
+[10:51:36] [Server thread/INFO]: Preparing spawn area: 46%
+[10:51:37] [Server thread/INFO]: Preparing spawn area: 62%
+[10:51:38] [Server thread/INFO]: Preparing spawn area: 81%
+[10:51:39] [Server thread/INFO]: Changing view distance to 12, from 10
+[10:51:39] [Server thread/INFO]: Player788[local:E:d4402dca] logged in with entity id 80 at (-234.5, 75.0, 109.5)
+[10:51:39] [Server thread/INFO]: Player788 joined the game
+[10:51:40] [Client thread/INFO]: [CHAT] welcome!
+[10:51:40] [Client thread/INFO]: [CHAT] Your score is 0 now, let's work on making it higher! :-)
+[10:51:42] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2094ms behind, skipping 41 tick(s)
+[10:51:44] [Client thread/INFO]: Warning: Clientside chunk ticking took 547 ms
+[10:51:44] [Client thread/INFO]: Warning: Clientside chunk ticking took 127 ms
+[10:52:54] [Server thread/INFO]: Saving and pausing game...
+[10:52:54] [Server thread/INFO]: Saving chunks for level 'New World'/Overworld
+[10:52:54] [Server thread/INFO]: Saving chunks for level 'New World'/Nether
+[10:52:54] [Server thread/INFO]: Saving chunks for level 'New World'/The End
+[10:53:29] [Server thread/INFO]: Saving and pausing game...
+[10:53:29] [Server thread/INFO]: Saving chunks for level 'New World'/Overworld
+[10:53:29] [Server thread/INFO]: Saving chunks for level 'New World'/Nether
+[10:53:29] [Server thread/INFO]: Saving chunks for level 'New World'/The End
+[10:54:11] [Client thread/INFO]: Warning: Clientside chunk ticking took 109 ms
+[10:54:11] [Client thread/INFO]: Warning: Clientside chunk ticking took 110 ms
+[10:54:11] [Server thread/INFO]: Saving and pausing game...
+[10:54:11] [Server thread/INFO]: Saving chunks for level 'New World'/Overworld
+[10:54:11] [Server thread/INFO]: Saving chunks for level 'New World'/Nether
+[10:54:11] [Server thread/INFO]: Saving chunks for level 'New World'/The End
+[10:54:37] [Server thread/INFO]: Saving and pausing game...
+[10:54:37] [Server thread/INFO]: Saving chunks for level 'New World'/Overworld
+[10:54:37] [Server thread/INFO]: Saving chunks for level 'New World'/Nether
+[10:54:37] [Server thread/INFO]: Saving chunks for level 'New World'/The End
+[10:54:51] [Server thread/INFO]: Saving and pausing game...
+[10:54:51] [Server thread/INFO]: Saving chunks for level 'New World'/Overworld
+[10:54:51] [Server thread/INFO]: Saving chunks for level 'New World'/Nether
+[10:54:51] [Server thread/INFO]: Saving chunks for level 'New World'/The End
+[10:55:01] [Server thread/INFO]: Player788 has just earned the achievement [Taking Inventory]
+[10:55:01] [Client thread/INFO]: [CHAT] Player788 has just earned the achievement [Taking Inventory]
+[10:55:59] [Client thread/INFO]: [CHAT] Your new score is: 5
+[10:55:59] [Client thread/INFO]: [CHAT] You unlocked the Grenade! Try it out in your inventory
+[10:56:38] [Server thread/INFO]: Saving and pausing game...
+[10:56:38] [Server thread/INFO]: Saving chunks for level 'New World'/Overworld
+[10:56:38] [Server thread/INFO]: Saving chunks for level 'New World'/Nether
+[10:56:38] [Server thread/INFO]: Saving chunks for level 'New World'/The End
+[10:56:39] [Server thread/INFO]: Stopping server
+[10:56:39] [Server thread/INFO]: Saving players
+[10:56:39] [Server thread/INFO]: Saving worlds
+[10:56:39] [Server thread/INFO]: Saving chunks for level 'New World'/Overworld
+[10:56:39] [Server thread/INFO]: Saving chunks for level 'New World'/Nether
+[10:56:39] [Server thread/INFO]: Saving chunks for level 'New World'/The End
+[10:56:42] [Server thread/INFO]: Starting integrated minecraft server version 1.7.10
+[10:56:42] [Server thread/INFO]: Generating keypair
+[10:56:42] [Server thread/INFO]: Preparing start region for level 0
+[10:56:43] [Server thread/INFO]: Changing view distance to 12, from 10
+[10:56:43] [Server thread/INFO]: Player788[local:E:e53349c4] logged in with entity id 8131 at (-236.46241004293037, 77.26818752923674, 134.76943095220835)
+[10:56:43] [Server thread/INFO]: Player788 joined the game
+[10:56:43] [Client thread/INFO]: [CHAT] welcome!
+[10:56:43] [Client thread/INFO]: [CHAT] Your score is: 5. Keep up the good job!
+[10:57:00] [Client thread/INFO]: Warning: Clientside chunk ticking took 103 ms
+[10:57:10] [Server thread/INFO]: Saving and pausing game...
+[10:57:10] [Server thread/INFO]: Saving chunks for level 'New World'/Overworld
+[10:57:10] [Server thread/INFO]: Saving chunks for level 'New World'/Nether
+[10:57:10] [Server thread/INFO]: Saving chunks for level 'New World'/The End
+[11:01:33] [Server thread/INFO]: Stopping server
+[11:01:33] [Server thread/INFO]: Saving players
+[11:01:33] [Server thread/INFO]: Saving worlds
+[11:01:33] [Server thread/INFO]: Saving chunks for level 'New World'/Overworld
+[11:01:33] [Server thread/INFO]: Saving chunks for level 'New World'/Nether
+[11:01:33] [Server thread/INFO]: Saving chunks for level 'New World'/The End
+[11:01:34] [Client thread/INFO]: Stopping!

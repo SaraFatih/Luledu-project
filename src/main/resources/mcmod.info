@@ -1,0 +1,16 @@
+[
+{
+  "modid": "edumod",
+  "name": "edumod",
+  "description": "This is a Mod that is made for educational purposes.",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["LTU"],
+  "credits": "Sams Teach yourself Mod development in 24 hours",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
