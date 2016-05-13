@@ -35,3 +35,12 @@ https://www.youtube.com/watch?v=8VEdtQLuLO0&feature=youtu.be
 
 For more details update more often refer to the Forge Forums:
 http://www.minecraftforge.net/forum/index.php/topic,14048.0.html
+
+————————————————————————————————————
+Mod installation 
+————————————————————————————————————
+To install this Mod on Minecraft, look for the .jar file named ‘edumod-1.0.jar’ located in ‘/build/libs/edumod-1.0.jar’ then copy paste it into the /mods folder inside the Minecraft Folder.
+For further installation details, refer to:
+Windows: https://www.youtube.com/watch?v=CNwGFyVVx3w
+Mac OS: https://www.youtube.com/watch?v=5FGhHmU05no
+
